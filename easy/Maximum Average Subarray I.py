@@ -23,3 +23,5 @@ class Solution:
 
         # return average 
         return float(max_sum/k) 
+    
+from typing import List

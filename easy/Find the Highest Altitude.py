@@ -15,3 +15,5 @@ class Solution:
             highest = max(curr, highest)
 
         return highest
+    
+from typing import List
